@@ -59,6 +59,27 @@ Version:	1.1
 /*=============================
 	Global CSS 
 ===============================*/
+// logo css
+.logowrap{
+  font-size: 44px;
+  text-transform: capitalize;
+  margin-top: 25px;
+  font-weight: 500;
+  text-shadow: 0 0 #212529;
+  font-family: system-ui;
+  -webkit-text-stroke: 2px #111;
+}
+.restro{
+  color: #28a745;
+}
+.help{
+  color: #ff2424;
+}
+
+
+
+
+
 body{
   font-family: 'Poppins', sans-serif;
 font-weight: 400;
